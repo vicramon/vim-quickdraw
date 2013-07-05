@@ -2,5 +2,5 @@
 " Author:       Vic Ramon
 " Version:      1.0
 
-map <C-l> :tabnext<CR>
-map <C-h> :tabprevious<CR>
+noremap <C-l> :tabnext<CR>
+noremap <C-h> :tabprevious<CR>
