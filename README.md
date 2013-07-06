@@ -19,21 +19,21 @@ Then restart Vim.
 
 ## Usage
 
-In tab mode: 
+**In tab mode:**
 
-`CTRL-h` tab left
+* `CTRL-h` tab left
 
-`CTRL-l` tab right
+* `CTRL-l` tab right
 
-In pane mode:
+**In pane mode:**
 
-`CTRL-h` pane left 
+* `CTRL-h` pane left 
 
-`CTRL-l` pane right
+* `CTRL-l` pane right
 
-`CTRL-j` pane down 
+* `CTRL-j` pane down 
 
-`CTRL-k` pane up 
+* `CTRL-k` pane up 
 
 ## Feedback
 
