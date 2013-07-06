@@ -1,4 +1,4 @@
-# Quickdraw.vim
+# QuickDraw.vim
 
 Quickdraw lets you quickly switch between tabs or panes in Vim. 
 
