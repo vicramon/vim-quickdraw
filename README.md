@@ -11,7 +11,7 @@ cd ~/.vimbundles
 git clone git@github.com:vicramon/vim-quickdraw.git
 ```
 
-Quickdraw defaults to fast tab switching.To make it do fast pane switching instead, put this in your .vimrc:
+Quickdraw defaults to fast tab switching. To make it do fast pane switching instead, put this in your .vimrc:
 
 `let g:quickpane = 1`
 
