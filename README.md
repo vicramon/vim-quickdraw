@@ -24,7 +24,7 @@ To make those keys switch panes instead, just put this in your `.vimrc` file:
 
 `let g:quickpane = 1`
 
-With panes, you also get `CTRL-j`  to go down, and `CTRL-k` to go up
+With panes, you also get `CTRL-j`  to go down and `CTRL-k` to go up.
 
 You can also do `:call QuickPane()` to make this work immediately (this won't be saved though).
 
