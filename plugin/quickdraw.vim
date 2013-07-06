@@ -24,6 +24,10 @@ if !exists('g:quickpane')
     let g:quickpane = 0
 endif
 
+if g:quickpane == 0 && g:quicktab == 0
+    let g:quicktab = 1
+endif
+
 if g:quickpane
     call QuickPane()
 elseif g:quicktab
