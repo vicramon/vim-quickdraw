@@ -21,15 +21,19 @@ Then restart Vim.
 
 In tab mode: 
 
-`CTRL-h` left
-`CTRL-l` right
+`CTRL-h` tab left
+
+`CTRL-l` tab right
 
 In pane mode:
 
-`CTRL-h` left 
-`CTRL-l` right 
-`CTRL-j` down 
-`CTRL-k` up 
+`CTRL-h` pane left 
+
+`CTRL-l` pane right
+
+`CTRL-j` pane down 
+
+`CTRL-k` pane up 
 
 ## Feedback
 
