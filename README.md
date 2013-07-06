@@ -10,7 +10,7 @@ If you have pathogen installed, it's as simple as this:
 cd ~/.vimbundles
 git clone git@github.com:vicramon/vim-quickdraw.git
 ```
-Then restart Vim
+Then restart Vim.
 
 ## Usage
 
