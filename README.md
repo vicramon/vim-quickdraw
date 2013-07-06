@@ -28,4 +28,4 @@ With panes, you also get `CTRL-j`  to go down, and `CTRL-k` to go up
 
 You can also do `:call QuickPane()` to make this work immediately (this won't be saved though).
 
-Questions, comments? Please email me at v@vicramon.com.
+Comments, suggestions? Please email me at v@vicramon.com.
