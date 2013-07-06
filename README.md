@@ -10,22 +10,27 @@ If you have pathogen installed it's as simple as this:
 cd ~/.vimbundles
 git clone git@github.com:vicramon/vim-quickdraw.git
 ```
+
+Quickdraw defaults to fast tab switching.To make it do fast pane switching instead, put this in your .vimrc:
+
+`let g:quickpane = 1`
+
 Then restart Vim.
 
 ## Usage
 
-Quickdraw has two options. You can either do fast tab switching or fast pane switching. 
+In tab mode: 
 
-It defaults to fast tab switching:
+`CTRL-h` left
+`CTRL-l` right
 
-`CTRL-h` takes you left, `CTRL-l` takes you right.
+In pane mode:
 
-To make those keys switch panes instead, just put this in your `.vimrc` file:
+`CTRL-h` left 
+`CTRL-l` right 
+`CTRL-j` down 
+`CTRL-k` up 
 
-`let g:quickpane = 1`
-
-With panes, you also get `CTRL-j`  to go down and `CTRL-k` to go up.
-
-You can also do `:call QuickPane()` to make this work immediately (this won't be saved though).
+## Feedback
 
 Comments, suggestions? Please email me at v@vicramon.com.
