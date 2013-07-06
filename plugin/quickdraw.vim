@@ -1,4 +1,4 @@
-" quicktab.vim - Quickly switch between tabs or panes
+" quickdraw.vim - Quickly switch between tabs or panes
 " Author:       Vic Ramon
 " Version:      1.0
 
