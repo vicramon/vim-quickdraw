@@ -4,7 +4,7 @@ Quickdraw lets you quickly switch between tabs or panes in Vim.
 
 ## Installation
 
-If you have pathogen installed, it's as simple as this:
+If you have pathogen installed it's as simple as this:
 
 ```
 cd ~/.vimbundles
