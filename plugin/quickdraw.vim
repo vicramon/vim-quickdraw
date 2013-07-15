@@ -1,6 +1,24 @@
 " quickdraw.vim - Quickly switch between tabs or panes
 " Author:       Vic Ramon
 " Version:      1.0
+"
+
+inoremap jk <esc><right>
+
+nnoremap Q @q
+
+nnoremap Y y$
+
+" noremap <C-s> :w<cr>
+" inoremap <C-s> <esc>:w<cr><right>
+
+nnoremap j gj
+nnoremap k gk
+
+set pastetoggle=<F10>
+
+set ignorecase
+set smartcase
 
 function! QuickTab()
     noremap <C-l> gt
