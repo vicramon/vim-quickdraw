@@ -9,6 +9,9 @@ nnoremap Q @q
 
 nnoremap Y y$
 
+nnoremap <Leader>s :update<cr>
+inoremap <Leader>s <esc>:update<cr>
+
 " noremap <C-s> :w<cr>
 " inoremap <C-s> <esc>:w<cr><right>
 
