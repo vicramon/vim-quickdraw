@@ -5,6 +5,8 @@
 
 inoremap jk <esc><right>
 
+map sw ysiw
+
 nnoremap Q @q
 
 nnoremap Y y$
