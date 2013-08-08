@@ -18,9 +18,6 @@ nnoremap Y y$
 nnoremap <leader>s :update<cr>
 inoremap <leader>s <esc>:update<cr>
 
-" noremap <C-s> :w<cr>
-" inoremap <C-s> <esc>:w<cr><right>
-
 nnoremap j gj
 nnoremap k gk
 
