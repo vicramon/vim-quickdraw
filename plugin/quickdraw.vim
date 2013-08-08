@@ -7,12 +7,16 @@ inoremap jk <esc><right>
 
 map sw ysiw
 
+noremap <leader>q :q<cr>
+
+noremap <leader>u :GundoToggle<cr>
+
 nnoremap Q @q
 
 nnoremap Y y$
 
-nnoremap <Leader>s :update<cr>
-inoremap <Leader>s <esc>:update<cr>
+nnoremap <leader>s :update<cr>
+inoremap <leader>s <esc>:update<cr>
 
 " noremap <C-s> :w<cr>
 " inoremap <C-s> <esc>:w<cr><right>
