@@ -1,4 +1,4 @@
-" quickdraw.vim - Quickly switch between tabs or panes
+" quickdraw.vim - A collection of handy mappings
 " Author:       Vic Ramon
 " Version:      1.0
 "
