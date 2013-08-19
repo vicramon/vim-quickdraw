@@ -27,6 +27,9 @@ set pastetoggle=<F10>
 set ignorecase
 set smartcase
 
+noremap <S-l> gt
+noremap <S-h> gT
+
 function! QuickTab()
     noremap <C-l> gt
     noremap <C-h> gT
