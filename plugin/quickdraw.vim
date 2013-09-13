@@ -1,7 +1,10 @@
 " quickdraw.vim - A collection of handy mappings
 " Author:       Vic Ramon
 " Version:      1.0
-"
+
+
+inoremap clg console.log<space>
+nnoremap clg iconsole.log<space>
 
 inoremap jk <esc><right>
 
