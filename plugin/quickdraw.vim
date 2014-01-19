@@ -1,7 +1,11 @@
 " quickdraw.vim - A collection of handy mappings
 " Author:       Vic Ramon
-" Version:      1.0
+" Version:      1.1
 
+noremap cp yap<S-}>p
+
+noremap ul ddkP
+noremap dl ddjP
 
 inoremap clg console.log<space>
 nnoremap clg iconsole.log<space>
