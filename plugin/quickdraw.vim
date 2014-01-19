@@ -4,8 +4,8 @@
 
 noremap cp yap<S-}>p
 
-noremap ul ddkP
-noremap dl ddjP
+noremap mlk ddkP
+noremap mlj ddjP
 
 inoremap clg console.log<space>
 nnoremap clg iconsole.log<space>
