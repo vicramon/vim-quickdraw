@@ -25,8 +25,8 @@ vnoremap Q :norm @q<cr>
 
 nnoremap Y y$
 
-nnoremap <leader>s :update<cr>
-inoremap <leader>s <esc>:update<cr>
+nnoremap <leader>s :w<cr>
+inoremap <leader>s <esc>:w<cr>
 
 nnoremap j gj
 nnoremap k gk
