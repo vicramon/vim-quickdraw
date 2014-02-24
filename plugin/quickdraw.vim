@@ -2,6 +2,8 @@
 " Author:       Vic Ramon
 " Version:      1.1
 
+noremap B ^
+
 noremap cp yap<S-}>p
 
 noremap mlk ddkP
