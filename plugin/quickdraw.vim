@@ -2,12 +2,13 @@
 " Author:       Vic Ramon
 " Version:      1.1
 
+
 noremap B ^
 
-noremap cp yap<S-}>p
+let @p = 'lF(cs(  '
+noremap <C-p> @p
 
-noremap mlk ddkP
-noremap mlj ddjP
+noremap cp yap<S-}>p
 
 inoremap clg console.log<space>
 nnoremap clg iconsole.log<space>
