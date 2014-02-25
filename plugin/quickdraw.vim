@@ -2,6 +2,7 @@
 " Author:       Vic Ramon
 " Version:      1.1
 
+command Tab tabe %
 
 noremap B ^
 
