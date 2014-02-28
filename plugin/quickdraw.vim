@@ -5,6 +5,7 @@
 command Tab tabe %
 
 noremap B ^
+noremap E $
 
 let @p = 'lF(cs(  '
 noremap <C-p> @p
