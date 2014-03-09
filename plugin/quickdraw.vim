@@ -1,6 +1,6 @@
 " quickdraw.vim - A collection of handy mappings
 " Author:       Vic Ramon
-" Version:      1.1
+" Version:      1.2
 
 command Tab tabe %
 
