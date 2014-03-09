@@ -4,6 +4,8 @@
 
 command Tab tabe %
 
+noremap <S-k> <NOP>
+
 noremap B ^
 noremap E $
 
