@@ -27,6 +27,8 @@ noremap <leader>u :GundoToggle<cr>
 
 noremap <leader>a =ap
 
+noremap <leader>r VggG=
+
 nnoremap Q @q
 vnoremap Q :norm @q<cr>
 
