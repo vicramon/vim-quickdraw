@@ -13,7 +13,7 @@ inoremap <Down> <NOP>
 inoremap <Left> <NOP>
 inoremap <Right> <NOP>
 
-command Tab tabe %
+command Ta tabe %
 
 noremap <S-k> <NOP>
 
