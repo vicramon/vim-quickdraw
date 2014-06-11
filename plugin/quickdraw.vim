@@ -30,7 +30,7 @@ noremap <leader>q :q<cr>
 
 noremap <leader>u :GundoToggle<cr>
 
-noremap <leader>a =ap
+noremap <leader>a =ip
 
 noremap <leader>r gg<S-v>G==
 
