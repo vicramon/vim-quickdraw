@@ -1,6 +1,6 @@
 # QuickDraw.vim
 
-Quickdraw lets you quickly switch between tabs or panes in Vim. 
+Quickdraw lets you quickly switch between tabs and panes in Vim.
 
 It also adds quite a few nice mappings. Check out the source to see everything that it gives you.
 
@@ -13,30 +13,26 @@ cd ~/.vimbundles
 git clone git@github.com:vicramon/vim-quickdraw.git
 ```
 
-Quickdraw defaults to fast tab switching. To make it do fast pane switching instead, put this in your .vimrc:
-
-`let g:quickpane = 1`
-
-Then restart Vim.
-
 ## Usage
 
-**In tab mode:**
 
-* `CTRL-h` tab left
+Change tabs:
 
-* `CTRL-l` tab right
+* `shift-h` tab left
 
-**In pane mode:**
+* `shift-l` tab right
 
-* `CTRL-h` pane left 
+Change panes:
 
-* `CTRL-l` pane right
+* `control-h` pane left
 
-* `CTRL-j` pane down 
+* `control-l` pane right
 
-* `CTRL-k` pane up 
+* `control-j` pane down
+
+* `control-k` pane up
+
 
 ## Feedback
 
-Comments, suggestions? Please email me at v@vicramon.com.
+Comments, suggestions? Raise an issue.
