@@ -1,6 +1,9 @@
 " quickdraw.vim - A collection of handy mappings
 " Author:       Vic Ramon
 " Version:      1.2
+"
+
+let mapleader = ","
 
 noremap ; :
 noremap , ;
