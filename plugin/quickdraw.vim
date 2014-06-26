@@ -2,6 +2,9 @@
 " Author:       Vic Ramon
 " Version:      1.2
 
+noremap ; :
+noremap , ;
+
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
