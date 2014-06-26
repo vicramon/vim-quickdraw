@@ -48,7 +48,7 @@ inoremap <leader>s <esc>l:w<cr>
 nnoremap j gj
 nnoremap k gk
 
-set pastetoggle=<leader>z
+noremap <leader>z :set invpaste<cr>
 
 set ignorecase
 set smartcase
