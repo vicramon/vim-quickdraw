@@ -44,7 +44,7 @@ noremap <leader>q :q<cr>
 
 noremap <leader>u :GundoToggle<cr>
 
-noremap <leader>a =ip
+noremap <leader>a mi=ip'i
 
 noremap <leader>r gg<S-v>G==
 
