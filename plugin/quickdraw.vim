@@ -12,6 +12,8 @@ endfunc
 
 command! CleanSteps call CleanSteps()
 
+noremap ss <C-^>
+
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
