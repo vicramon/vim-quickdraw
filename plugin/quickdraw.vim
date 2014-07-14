@@ -3,10 +3,14 @@
 " Version:      1.2
 "
 
-let mapleader = ","
+func! CleanSteps()
+  let save_view = winsaveview()
+  silent! %s/\$\//'/g
+  silent! %s/\/\^/'/g
+  call winrestview(save_view)
+endfunc
 
-noremap ; :
-noremap , ;
+command! CleanSteps call CleanSteps()
 
 noremap <Up> <NOP>
 noremap <Down> <NOP>
