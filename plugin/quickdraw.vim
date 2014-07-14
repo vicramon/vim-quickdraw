@@ -14,6 +14,8 @@ command! CleanSteps call CleanSteps()
 
 noremap ss <C-^>
 
+noremap gp "0p
+
 noremap <Up> <NOP>
 noremap <Down> <NOP>
 noremap <Left> <NOP>
