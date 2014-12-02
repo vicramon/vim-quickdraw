@@ -55,6 +55,8 @@ nnoremap Y y$
 
 nnoremap <leader>s :w<cr>
 inoremap <leader>s <esc>l:w<cr>
+noremap <S-w> :w<cr>
+inoremap <S-w> <esc>l:w<cr>
 
 nnoremap j gj
 nnoremap k gk
