@@ -10,7 +10,7 @@
 "  call winrestview(save_view)
 " endfunc
 
-command! CleanSteps call CleanSteps()
+" command! CleanSteps call CleanSteps()
 
 noremap ss <C-^>
 
