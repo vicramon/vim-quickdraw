@@ -3,12 +3,12 @@
 " Version:      1.2
 "
 
-func! CleanSteps()
-  let save_view = winsaveview()
-  silent! %s/\$\//'/g
-  silent! %s/\/\^/'/g
-  call winrestview(save_view)
-endfunc
+" func! CleanSteps()
+"  let save_view = winsaveview()
+"  silent! %s/\$\//'/g
+"  silent! %s/\/\^/'/g
+"  call winrestview(save_view)
+" endfunc
 
 command! CleanSteps call CleanSteps()
 
