@@ -21,7 +21,7 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 
-command Ta tabe %
+" command Ta tabe %
 
 noremap <S-k> <NOP>
 
